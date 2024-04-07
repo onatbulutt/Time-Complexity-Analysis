@@ -16,7 +16,7 @@
 2. Extract the zip.
 3. Open IntelliJ IDEA.
 4. From the menu bar, select "File" > "Open".
-5. Navigate to your project directory and select HashTable_With_ChainingMethod.
+5. Navigate to your project directory and select Time_Complexity_Analysis.
 6. Click on the "Open" button to load the project into IntelliJ IDEA.
 
 # Usage
