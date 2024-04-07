@@ -20,17 +20,10 @@
 6. Click on the "Open" button to load the project into IntelliJ IDEA.
 
 # Usage
-1. Right-click on the file named text in the unzipped file and select copy as path.
-2. Paste the selected path inside the quotation marks into the method called hash.ReadFileandGenerateHash on the 4th line in the main class of the project you have opened.
-3. After pasting, arrange it so that there are only quotes on the right and left.
-4. click on the RUN button located at the top right corner of the Main class inside the project, or press Shift+F10.
-5. Observe the consol. 
-
-With the methods in the 6th and 7th lines of the main class, a text file showing the frequency of the words in the text can be created. You can enter the path to the file to be created as a parameter.
-Additionally, you can observe the efficiency of the hash table created by entering different table sizes into the hash.ReadFileandGenerateHash method on the 4th line of the Main class.
-You can put the piece of text you want to observe in the text file.
+To use this program, click on the RUN button located at the top right corner of the Main class inside the project, or press Shift+F10. 
 
 # Example
-The photo of the output generated in the console when the existing code is run is provided below. The photo shows only a view of the lower part of the console.
+The photo of the output generated on the screen when the existing code is run is provided below. 
 
-![hash](https://github.com/onatbulutt/Hash-Table-With-Chaining/assets/155490196/6a51f211-5d14-4407-bfa6-967babc5c839)
+![graphs](https://github.com/onatbulutt/Time-Complexity-Analysis/assets/155490196/1fb1cc15-1054-46dc-b8b3-d9e14f185438)
+
